@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 JUN 2021 11:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 JUN 2021 11:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -153,7 +153,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write3
 \openout3 = `Notes.toc'.
 
- [2] [3] [4] (/Users/williammatrix/Desktop/PrinciplesOfAutonomy/Notes.aux) ) 
+ [2]
+Overfull \hbox (4.63063pt too wide) in paragraph at lines 37--42
+[]\OT1/cmr/m/n/12 Reasoning paradigms in-clude logic and de-duc-tion, heuris-tic and constraint-
+ []
+
+[3] [4] (/Users/williammatrix/Desktop/PrinciplesOfAutonomy/Notes.aux) ) 
 Here is how much of TeX's memory you used:
  3494 strings out of 480608
  49946 string characters out of 5903631
@@ -163,7 +168,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  30i,6n,36p,261b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/williammatrix/Desktop/PrinciplesOfAutonomy/Notes.pdf (4 pages, 49246 bytes).
+Output written on /Users/williammatrix/Desktop/PrinciplesOfAutonomy/Notes.pdf (4 pages, 51024 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
